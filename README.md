@@ -1,4 +1,10 @@
 # AGENT-COMICON
+Team members : Oorgita Sur , Nisha kumari, Vansh Gupta , Kartish Bhadauria 
+college : BVCOE,Delhi 
+contact : 8586092733
+email : sweetorange1000@gmail.com ( oorgita ),vanshgupta2099@gmail.com (vansh), namenishakumari@gmail.com (nisha), kartishsbhadauria@gmail,com (kartish).
+
+
 Unleash the Power of text to image generation : A Business Model Built on Stable Diffusion
 Harness the Cutting Edge of Image Creation
 
